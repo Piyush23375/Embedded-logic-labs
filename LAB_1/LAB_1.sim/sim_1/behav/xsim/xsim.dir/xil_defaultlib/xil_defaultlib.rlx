@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.srcs/sim_1/imports/Downloads/adder_tb.v,1724999969,verilog,,,,adder_tb,,,,,,,,
+C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.srcs/sources_1/imports/Downloads/full_adder.v,1724129158,verilog,,C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.srcs/sources_1/imports/Downloads/top_adder.v,,full_adder_1bit,,,,,,,,
+C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.srcs/sources_1/imports/Downloads/top_adder.v,1724132415,verilog,,C:/Users/Acer/OneDrive/Desktop/ELD_2024/LAB_1/LAB_1.srcs/sim_1/imports/Downloads/adder_tb.v,,top_adder,,,,,,,,
